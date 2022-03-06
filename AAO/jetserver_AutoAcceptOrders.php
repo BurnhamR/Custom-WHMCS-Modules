@@ -1,4 +1,7 @@
 <?php
+/*
+Made for Apex Minecraft Hosting ad Partners, Distributed by Gamercraft Studios for public use
+*/
 if (!defined("WHMCS"))
     die("This file cannot be accessed directly");
 
